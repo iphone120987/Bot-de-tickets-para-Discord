@@ -5,7 +5,7 @@ Criado por **Gaby.silva**
 
 
 ## Funções
-- Painel com embed parecido com o da imagem
+- Painel com embed 
 - Select menu com opções:
   - Denúncia
   - Doação
