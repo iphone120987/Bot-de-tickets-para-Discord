@@ -46,6 +46,5 @@ O bot precisa conseguir:
 
 Para criar canais com permissões, o bot precisa de permissões adequadas no servidor. Veja a documentação do Discord sobre permissões e overwrites. citeturn1search2turn1search5
 
-## Observação
-O layout foi recriado no mesmo estilo visual da imagem, mas com texto e estrutura próprios.
+
 
