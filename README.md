@@ -2,7 +2,7 @@ Projeto do bot **Central de Atendimento**
 
 Criado por **Gaby.silva**
 
-# Bot de Tickets estilo da imagem
+
 
 ## Funções
 - Painel com embed parecido com o da imagem
